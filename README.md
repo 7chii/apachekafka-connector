@@ -1,4 +1,11 @@
-# Apache Kafka-Connector
+## Índice
+
+- [Sobre](#sobre)
+- [Funcionalidades](#funcionalidades)
+- [Pré-requisitos](#pre-requisitos)
+- [Uso](#uso)
+  
+## Sobre
 
 Esta aplicação Python atua como um produtor de Apache Kafka, lendo mensagens de log de um servidor apache webserver e enviando-as como mensagens para um tópico em um broker Kafka. 
 
@@ -15,3 +22,7 @@ Antes de rodar a aplicação, certifique-se de que o seguinte esteja instalado:
 - Apache Kafka
 - Kafka Python
 - Apache WebServer
+
+## Uso
+
+Faca requisicoes no WebServer com a aplicacao, kafka e zookeeper rodando.
