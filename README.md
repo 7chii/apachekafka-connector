@@ -2,7 +2,7 @@
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pre-requisitos)
+- [Pré-requisitos](#pré-requisitos)
 - [Uso](#uso)
   
 ## Sobre
